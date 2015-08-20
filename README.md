@@ -1,2 +1,3 @@
-# single-service-example
-A Binder-compatible repository that depends on a requirements.txt file and Spark 1.4.1
+# Example Binder with the Spark Service
+
+A Binder-compatible repo that uses Spark
