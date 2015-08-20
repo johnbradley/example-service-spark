@@ -1,3 +1,3 @@
-# Example Binder with the Spark Service
+# Example Binder with the Spark
 
 A Binder-compatible repo that uses Spark
